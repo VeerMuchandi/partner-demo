@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ADK specific
+.ae_ignore
+agents_log/
+session.json
+*.log
+
+# Local environment
+.env
+
+# Test and documentation files
+test_runner.py
+test_replay_*.json
+agent_architecture.md
+testing.md
+
+# Editor/IDE
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+{
+  "state": {
+    "app_name": "dmv_case_triage_agent",
+    "user_id": "replay_user",
+    "state": {}
+  },
+  "queries": [
+    "Hello",
+    "D12345678",
+    "CA-2024-1038A",
+    "Request for a full lifetime driving history audit for court proceedings, including any interstate records."
+  ]
+}
